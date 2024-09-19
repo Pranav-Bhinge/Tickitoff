@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7dba60fc-c6e1-4655-a94f-40cf2da7d2a3/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/tickitofftodopranav",
+    "appService.deploySubpath": "."
+}
